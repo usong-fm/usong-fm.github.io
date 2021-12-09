@@ -1,4 +1,6 @@
 {
-  "adId": "123123123123",
-  "version": "0.0.1"
+  interstitialOptions: {
+    adId: 'ca-app-pub-7633889688381060/7384444737',
+    isTesting: false,
+  }
 }
